@@ -1,0 +1,10 @@
+name = "dfplayer_mini_ada"
+description = "Ada library to play MP3 files on a DFPlayer Mini"
+version = "0.1.0-dev"
+
+authors = ["Rolf Ebert"]
+maintainers = ["Rolf Ebert <rolf.ebert.gcc@gmx.de>"]
+maintainers-logins = ["RREE"]
+licenses = "MIT OR Apache-2.0 WITH LLVM-exception"
+website = ""
+tags = ["dfplayer", "embedded"]
